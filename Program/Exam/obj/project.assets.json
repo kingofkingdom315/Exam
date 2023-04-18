@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\Exam\\Exam\\Exam.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Exam\\Program\\Exam\\Exam.csproj",
       "projectName": "Exam",
-      "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Exam\\Exam\\Exam.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\Exam\\Program\\Exam\\Exam.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\source\\repos\\Exam\\Exam\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Desktop\\Exam\\Program\\Exam\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
