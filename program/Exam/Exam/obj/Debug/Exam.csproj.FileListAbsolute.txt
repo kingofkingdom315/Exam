@@ -1,0 +1,2 @@
+C:\Users\stu-pkspk219\source\repos\Exam1\Exam1\obj\Debug\Exam1.csprojResolveAssemblyReference.cache
+C:\Users\stu-pkspk219\source\repos\Exam1\Exam1\obj\Debug\Exam1.csproj.CoreCompileInputs.cache
