@@ -1,7 +1,0 @@
-C:\Users\stu-pkspk219\source\repos\Exam1\Exam1\obj\Debug\Exam1.csprojResolveAssemblyReference.cache
-C:\Users\stu-pkspk219\source\repos\Exam1\Exam1\obj\Debug\Exam1.csproj.CoreCompileInputs.cache
-C:\Users\stu-pkspk219\source\repos\Exam1\Exam1\bin\Debug\Exam1.exe.config
-C:\Users\stu-pkspk219\source\repos\Exam1\Exam1\bin\Debug\Exam1.exe
-C:\Users\stu-pkspk219\source\repos\Exam1\Exam1\bin\Debug\Exam1.pdb
-C:\Users\stu-pkspk219\source\repos\Exam1\Exam1\obj\Debug\Exam1.exe
-C:\Users\stu-pkspk219\source\repos\Exam1\Exam1\obj\Debug\Exam1.pdb
